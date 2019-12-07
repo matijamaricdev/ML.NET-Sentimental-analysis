@@ -1,0 +1,9 @@
+C:\Users\Matija\source\repos\MachineLearningSentimentalAnalysis\MachineLearningSentimentalAnalysisML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Matija\source\repos\MachineLearningSentimentalAnalysis\MachineLearningSentimentalAnalysisML.Model\bin\Debug\netstandard2.0\MachineLearningSentimentalAnalysisML.Model.deps.json
+C:\Users\Matija\source\repos\MachineLearningSentimentalAnalysis\MachineLearningSentimentalAnalysisML.Model\bin\Debug\netstandard2.0\MachineLearningSentimentalAnalysisML.Model.dll
+C:\Users\Matija\source\repos\MachineLearningSentimentalAnalysis\MachineLearningSentimentalAnalysisML.Model\bin\Debug\netstandard2.0\MachineLearningSentimentalAnalysisML.Model.pdb
+C:\Users\Matija\source\repos\MachineLearningSentimentalAnalysis\MachineLearningSentimentalAnalysisML.Model\obj\Debug\netstandard2.0\MachineLearningSentimentalAnalysisML.Model.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\MachineLearningSentimentalAnalysis\MachineLearningSentimentalAnalysisML.Model\obj\Debug\netstandard2.0\MachineLearningSentimentalAnalysisML.Model.AssemblyInfoInputs.cache
+C:\Users\Matija\source\repos\MachineLearningSentimentalAnalysis\MachineLearningSentimentalAnalysisML.Model\obj\Debug\netstandard2.0\MachineLearningSentimentalAnalysisML.Model.AssemblyInfo.cs
+C:\Users\Matija\source\repos\MachineLearningSentimentalAnalysis\MachineLearningSentimentalAnalysisML.Model\obj\Debug\netstandard2.0\MachineLearningSentimentalAnalysisML.Model.dll
+C:\Users\Matija\source\repos\MachineLearningSentimentalAnalysis\MachineLearningSentimentalAnalysisML.Model\obj\Debug\netstandard2.0\MachineLearningSentimentalAnalysisML.Model.pdb
