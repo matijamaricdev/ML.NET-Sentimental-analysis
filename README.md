@@ -7,6 +7,4 @@ Machine Learning dot net sentimental analysis of good and bad sentences
 2. ML.NET
 3. Visual Studio IDE
 
-### Created by
-
--> Matija Marić
+### Created by Matija Marić
